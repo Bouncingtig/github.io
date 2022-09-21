@@ -1,0 +1,44 @@
+.btn {
+    height: 50px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-weight: 500;
+  }
+  
+  .underground {
+    border-radius: 5px;
+    color: #F8F8F8;
+    background: rgb(0, 25, 168);
+    
+  }
+
+  .trams {
+    border-radius: 5px;
+    color: #F8F8F8;
+    background: rgb(0, 189, 25);
+
+  }
+
+  .dlr {
+    border-radius: 5px;
+    color: #F8F8F8;
+    background: rgb(0, 175, 173);
+
+  }
+  
+  .bus {
+    border-radius: 5px;
+    color: #F8F8F8;
+    background: rgb(220, 36, 31);
+
+  }
+  
+  .riverboat {
+    border-radius: 5px;
+    color: #F8F8F8;
+    background: rgb(0, 160, 226);
+
+  }
